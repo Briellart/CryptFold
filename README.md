@@ -26,8 +26,9 @@ pip install cryptography
 ```
 
 Usage
-Load the Encryption Key: Ensure you have a file named key.key containing your encryption key in the same directory as the script.
+
 Encrypt a File: Call the encrypt_file method with the path to the file you want to encrypt.
+Load the Encryption Key: Ensure you have a file named key.key containing your encryption key in the same directory as the script.
 Encrypt a Folder: Call the encrypt_folder method with the path to the folder you want to encrypt.
 Decrypt a File: Call the decrypt_file method with the path to the file you want to decrypt.
 
