@@ -36,5 +36,9 @@ pip install cryptography
 - cryptography library for providing the encryption tools.
 - Python community for the support and resources.
 
+## Note
+I am a beginner, and any suggestions or help are very welcome as I do not have much experience in this field.
+
+
 Contact
 For any issues or inquiries, please open an issue on this repository or contact the maintainer.
