@@ -25,16 +25,16 @@ You can install the required packages using pip:
 pip install cryptography
 ```
 
-Usage
+## Usage
 
-Encrypt a File: Call the encrypt_file method with the path to the file you want to encrypt.
-Load the Encryption Key: Ensure you have a file named key.key containing your encryption key in the same directory as the script.
-Encrypt a Folder: Call the encrypt_folder method with the path to the folder you want to encrypt.
-Decrypt a File: Call the decrypt_file method with the path to the file you want to decrypt.
+- **Encrypt a File**: Call the encrypt_file method with the path to the file you want to encrypt.
+- **Load the Encryption Key**: Ensure you have a file named key.key containing your encryption key in the same directory as the script.
+- **Decrypt a File**: Call the decrypt_file method with the path to the file you want to decrypt.
 
 
-Acknowledgments
-cryptography library for providing the encryption tools.
-Python community for the support and resources.
+## Acknowledgments
+- cryptography library for providing the encryption tools.
+- Python community for the support and resources.
+
 Contact
 For any issues or inquiries, please open an issue on this repository or contact the maintainer.
