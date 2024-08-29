@@ -23,6 +23,7 @@ You can install the required packages using pip:
 
 ```sh
 pip install cryptography
+```
 
 Usage
 Load the Encryption Key: Ensure you have a file named key.key containing your encryption key in the same directory as the script.
